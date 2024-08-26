@@ -1,7 +1,7 @@
-# Hey there!👋🏻 I am Jasneet Arora.
+# Hey there!👋🏻 I am Jasneet Arora!
 
 ## 💫 About Me:
-👨‍💻 I am a 2nd-year Computer Science student at Chitkara University, Punjab.<br>🧠 I am learning Data Structures & Algorithms in C++.<br>💬 I have achieved 5-star proficiency badges in Python & C++ on HackerRank.<br>👯 I am seeking AI/ML project collaborations.<br>🏢 I have worked as a former Logistics Co-head at IEI Society, Chitkara University.<br>🎯 I am an aspiring software engineer, eager to learn and explore new technologies.
+👨‍💻 I am a 3rd-year Computer Science student at Chitkara University, Punjab.<br>🧠 I am learning Data Structures & Algorithms in C++.<br>💬 I have achieved 5-star proficiency badges in Python & C++ on HackerRank.<br>👯 I am seeking AI/ML project collaborations.<br>🏢 I have worked as a former Logistics Co-head at IEI Society, Chitkara University.<br>🎯 I am an aspiring software engineer, eager to learn and explore new technologies.
 
 
 ## 🌐 Socials:
